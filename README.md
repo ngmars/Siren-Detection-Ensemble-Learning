@@ -20,7 +20,7 @@ The target classes are:
 ## Observations
 | MODEL  | ACCURACY | ACCURACY WITH AUGMENTATION |
 | ------------- | ------------- | ------------- |
-| Convolutional Neural Network with images   | 0.11792  | -  |
+| Convolutional Neural Network with images   | 11.792  | -  |
 | Fully Connected Neural Network  | 86.777   | 97.123   |
 | Convolutional Neural Network with MFCC  | 90.097   | 99.127   |
 | Decision Tree Classifier   | 67.258   | 88.277  |
